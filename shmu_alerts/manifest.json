@@ -1,0 +1,12 @@
+{
+  "domain": "shmu_alerts",
+  "name": "SHMU Alerts",
+  "version": "1.0.0",
+  "documentation": "https://github.com/stanogustafik/shmu_alerts",
+  "requirements": [
+    "aiohttp>=3.8.1"
+  ],
+  "dependencies": [],
+  "codeowners": ["@stanogustafik"],
+  "iot_class": "cloud_polling"
+}
