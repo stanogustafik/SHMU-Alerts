@@ -2,7 +2,7 @@
   "domain": "shmu_alerts",
   "name": "SHMU Alerts",
   "version": "1.0.0",
-  "documentation": "https://github.com/stanogustafik/shmu_alerts",
+  "documentation": "https://github.com/stanogustafik/SHMU-Alerts",
   "requirements": [
     "aiohttp>=3.8.1"
   ],
